@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagu-op
+- 👋 Hi, I’m @op-coder
 - 👀 I’m interested in learning different new programming language's and also getting new updates and learning more about python (which is my current fav language)
 - 🌱 I’m currently learning different modules in python
 - 💞️ I’m looking to collaborate on beginner and intermediate python projects ;)

@@ -1,6 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=nagu-op-github-username)
 
+  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
 - 👋 Hi, I’m @op-coder
 - 👀 I’m interested in learning different new programming language's and also getting new updates and learning more about python (which is my current fav language)
 - 🌱 I’m currently learning different modules in python

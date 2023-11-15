@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
- <img align="right" alt="Coding" width="800" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+ <img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">

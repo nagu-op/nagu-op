@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=nagu-op-github-nagu-op)
+![](https://komarev.com/ghpvc/?username=nagu-op-github-username)
 
   <img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 

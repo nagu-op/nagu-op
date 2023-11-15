@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nagu-op-github-username)
 
-  <img align="center" alt="Coding" width="600" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+  <img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 
 - 👋 Hi, I’m @op-coder
 - 👀 I’m interested in learning different new programming language's and also getting new updates and learning more about python (which is my current fav language)
